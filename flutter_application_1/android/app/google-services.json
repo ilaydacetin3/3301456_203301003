@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "598871302072",
+    "project_id": "moda-app-44a2d",
+    "storage_bucket": "moda-app-44a2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598871302072:android:4ddf15599c9c4f6f01f94d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598871302072-h5fjm5hbdh7o0th4utr0lnvlbasimm0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKygPruJBI04I4mXrLgxNK5pMrOgWanZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598871302072-h5fjm5hbdh7o0th4utr0lnvlbasimm0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
